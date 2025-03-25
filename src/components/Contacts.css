@@ -1,0 +1,14 @@
+#contacts {
+    margin-top: 10px; 
+    padding-top: 30px; 
+}
+
+.contact {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+.contact:hover {
+    background: lightgray;
+}

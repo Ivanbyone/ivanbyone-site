@@ -1,0 +1,22 @@
+.maincontainer {
+    gap: 25px;
+    padding: 1;
+    margin: 1;
+    justify-content: center;
+    padding: 40;
+}
+
+.photo {
+    border-radius: 20px;
+}
+
+.tech {
+    margin: 30px;
+}
+
+.techsvg {
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap; 
+}

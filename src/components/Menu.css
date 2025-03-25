@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    padding: 1;
+    margin: 1;
+    justify-content: center;
+}
